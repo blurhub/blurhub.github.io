@@ -1,6 +1,6 @@
 {
     "version":"1.0",
-    "status":"true",
-    "error":"null",
-    "msg":"null"
+    "status":"false",
+    "error":"Failed to load",
+    "msg":"Server under maintenance.."
 }
